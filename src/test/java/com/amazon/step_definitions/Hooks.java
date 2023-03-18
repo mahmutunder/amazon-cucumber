@@ -21,6 +21,6 @@ public class Hooks {
         }
 
 
-        Driver.close();
+       Driver.closeDriver();
     }
 }
